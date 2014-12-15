@@ -1,0 +1,335 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<board>
+  <special>
+    <name>"Go"</name>
+  </special>
+  <property type="property">
+    <name>"Mediterranean Avenue"</name>
+    <set>"Dark Purple"</set>
+    <cost>60</cost>
+    <housecost>50</housecost>
+    <baserent>2</baserent>
+    <house1rent>10</house1rent>
+    <house2rent>30</house2rent>
+    <house3rent>90</house3rent>
+    <house4rent>160</house4rent>
+    <hotelrent>250</hotelrent>
+  </property>
+  <special>
+    <name>"Community Chest"</name>
+  </special>
+  <property type="property">
+    <name>"Baltic Avenue"</name>
+    <set>"Dark Purple"</set>
+    <cost>60</cost>
+    <housecost>50</housecost>
+    <baserent>4</baserent>
+    <house1rent>20</house1rent>
+    <house2rent>60</house2rent>
+    <house3rent>180</house3rent>
+    <house4rent>320</house4rent>
+    <hotelrent>450</hotelrent>
+  </property>
+  <tax>
+    <name>"Income Tax"</name>
+    <cost>200</cost>
+    <cost>0.1</cost>
+  </tax>
+  <property type="railroad">
+    <name>"Reading Railroad"</name>
+    <cost>200</cost>
+    <rent>25</rent>
+  </property>
+  <property type="property">
+    <name>"Oriental Avenue"</name>
+    <set>"Light Blue"</set>
+    <cost>100</cost>
+    <housecost>50</housecost>
+    <baserent>6</baserent>
+    <house1rent>30</house1rent>
+    <house2rent>90</house2rent>
+    <house3rent>270</house3rent>
+    <house4rent>400</house4rent>
+    <hotelrent>550</hotelrent>
+  </property>
+  <special>
+    <name>"Chance"</name>
+  </special>
+  <property type="property">
+    <name>"Vermont Avenue"</name>
+    <set>"Light Blue"</set>
+    <cost>100</cost>
+    <housecost>50</housecost>
+    <baserent>6</baserent>
+    <house1rent>30</house1rent>
+    <house2rent>90</house2rent>
+    <house3rent>270</house3rent>
+    <house4rent>400</house4rent>
+    <hotelrent>550</hotelrent>
+  </property>
+  <property type="property">
+    <name>"Connecticut Avenue"</name>
+    <set>"Light Blue"</set>
+    <cost>120</cost>
+    <housecost>50</housecost>
+    <baserent>8</baserent>
+    <house1rent>40</house1rent>
+    <house2rent>100</house2rent>
+    <house3rent>300</house3rent>
+    <house4rent>450</house4rent>
+    <hotelrent>600</hotelrent>
+  </property>
+  <special>
+    <name>"Just Visiting"</name>
+  </special>
+  <property type="property">
+    <name>"St. Charles Place"</name>
+    <set>"Magenta"</set>
+    <cost>140</cost>
+    <housecost>100</housecost>
+    <baserent>10</baserent>
+    <house1rent>50</house1rent>
+    <house2rent>150</house2rent>
+    <house3rent>450</house3rent>
+    <house4rent>625</house4rent>
+    <hotelrent>750</hotelrent>
+  </property>
+  <property type="utility">
+    <name>"Electric Company"</name>
+    <cost>150</cost>
+  </property>
+  <property type="property">
+    <name>"States Avenue"</name>
+    <set>"Magenta"</set>
+    <cost>140</cost>
+    <housecost>100</housecost>
+    <baserent>10</baserent>
+    <house1rent>50</house1rent>
+    <house2rent>150</house2rent>
+    <house3rent>450</house3rent>
+    <house4rent>625</house4rent>
+    <hotelrent>750</hotelrent>
+  </property>
+  <property type="property">
+    <name>"Virginia Avenue"</name>
+    <set>"Magenta"</set>
+    <cost>160</cost>
+    <housecost>100</housecost>
+    <baserent>12</baserent>
+    <house1rent>60</house1rent>
+    <house2rent>180</house2rent>
+    <house3rent>500</house3rent>
+    <house4rent>700</house4rent>
+    <hotelrent>900</hotelrent>
+  </property>
+  <property type="railroad">
+    <name>"Pennsylvania Railroad"</name>
+    <cost>200</cost>
+    <rent>25</rent>
+  </property>
+  <property type="property">
+    <name>"St. James Place"</name>
+    <set>"Orange"</set>
+    <cost>180</cost>
+    <housecost>100</housecost>
+    <baserent>14</baserent>
+    <house1rent>70</house1rent>
+    <house2rent>200</house2rent>
+    <house3rent>550</house3rent>
+    <house4rent>750</house4rent>
+    <hotelrent>950</hotelrent>
+  </property>
+  <special>
+    <name>"Community Chest"</name>
+  </special>
+  <property type="property">
+    <name>"Tennessee Vanue"</name>
+    <set>"Orange"</set>
+    <cost>180</cost>
+    <housecost>100</housecost>
+    <baserent>14</baserent>
+    <house1rent>70</house1rent>
+    <house2rent>200</house2rent>
+    <house3rent>550</house3rent>
+    <house4rent>750</house4rent>
+    <hotelrent>950</hotelrent>
+  </property>
+  <property type="property">
+    <name>"New York Avenue"</name>
+    <set>"Orange"</set>
+    <cost>200</cost>
+    <housecost>100</housecost>
+    <baserent>16</baserent>
+    <house1rent>80</house1rent>
+    <house2rent>220</house2rent>
+    <house3rent>600</house3rent>
+    <house4rent>800</house4rent>
+    <hotelrent>1000</hotelrent>
+  </property>
+  <special>
+    <name>"Free Parking"</name>
+  </special>
+  <property type="property">
+    <name>"Kentucky Avenue"</name>
+    <set>"Red"</set>
+    <cost>220</cost>
+    <housecost>150</housecost>
+    <baserent>18</baserent>
+    <house1rent>90</house1rent>
+    <house2rent>250</house2rent>
+    <house3rent>700</house3rent>
+    <house4rent>875</house4rent>
+    <hotelrent>1050</hotelrent>
+  </property>
+  <special>
+    <name>"Chance"</name>
+  </special>
+  <property type="property">
+    <name>"Indiana Avenue"</name>
+    <set>"Red"</set>
+    <cost>220</cost>
+    <housecost>150</housecost>
+    <baserent>18</baserent>
+    <house1rent>90</house1rent>
+    <house2rent>250</house2rent>
+    <house3rent>700</house3rent>
+    <house4rent>875</house4rent>
+    <hotelrent>1050</hotelrent>
+  </property>
+  <property type="property">
+    <name>"Illinois Avenue"</name>
+    <set>"Red"</set>
+    <cost>240</cost>
+    <housecost>150</housecost>
+    <baserent>20</baserent>
+    <house1rent>100</house1rent>
+    <house2rent>300</house2rent>
+    <house3rent>750</house3rent>
+    <house4rent>925</house4rent>
+    <hotelrent>1100</hotelrent>
+  </property>
+  <property type="railroad">
+    <name>"B. &amp; O. Railroad"</name>
+    <cost>200</cost>
+    <rent>25</rent>
+  </property>
+  <property type="property">
+    <name>"Atlantic Avenue"</name>
+    <set>"Yellow"</set>
+    <cost>260</cost>
+    <housecost>150</housecost>
+    <baserent>22</baserent>
+    <house1rent>110</house1rent>
+    <house2rent>330</house2rent>
+    <house3rent>800</house3rent>
+    <house4rent>975</house4rent>
+    <hotelrent>1150</hotelrent>
+  </property>
+  <property type="property">
+    <name>"Ventnor Avenue"</name>
+    <set>"Yellow"</set>
+    <cost>260</cost>
+    <housecost>150</housecost>
+    <baserent>22</baserent>
+    <house1rent>110</house1rent>
+    <house2rent>330</house2rent>
+    <house3rent>800</house3rent>
+    <house4rent>975</house4rent>
+    <hotelrent>1150</hotelrent>
+  </property>
+  <property type="utility">
+    <name>"Waterworks"</name>
+    <cost>150</cost>
+  </property>
+  <property type="property">
+    <name>"Marvin Gardens"</name>
+    <set>"Yellow"</set>
+    <cost>280</cost>
+    <housecost>150</housecost>
+    <baserent>24</baserent>
+    <house1rent>120</house1rent>
+    <house2rent>360</house2rent>
+    <house3rent>850</house3rent>
+    <house4rent>1025</house4rent>
+    <hotelrent>1200</hotelrent>
+  </property>
+  <special>
+    <name>"Go to Jail"</name>
+  </special>
+  <property type="property">
+    <name>"Pacific Avenue"</name>
+    <set>"Green"</set>
+    <cost>300</cost>
+    <housecost>200</housecost>
+    <baserent>26</baserent>
+    <house1rent>130</house1rent>
+    <house2rent>390</house2rent>
+    <house3rent>900</house3rent>
+    <house4rent>1100</house4rent>
+    <hotelrent>1275</hotelrent>
+  </property>
+  <property type="property">
+    <name>"North Carolina Avenue"</name>
+    <set>"Green"</set>
+    <cost>300</cost>
+    <housecost>200</housecost>
+    <baserent>26</baserent>
+    <house1rent>130</house1rent>
+    <house2rent>390</house2rent>
+    <house3rent>900</house3rent>
+    <house4rent>1100</house4rent>
+    <hotelrent>1275</hotelrent>
+  </property>
+  <special>
+    <name>"Community Chest"</name>
+  </special>
+  <property type="property">
+    <name>"Pennsylvania Avenue"</name>
+    <set>"Green"</set>
+    <cost>320</cost>
+    <housecost>200</housecost>
+    <baserent>28</baserent>
+    <house1rent>150</house1rent>
+    <house2rent>450</house2rent>
+    <house3rent>1000</house3rent>
+    <house4rent>1200</house4rent>
+    <hotelrent>1400</hotelrent>
+  </property>
+  <property type="railroad">
+    <name>"Shortline Railroad"</name>
+    <cost>200</cost>
+    <rent>25</rent>
+  </property>
+  <special>
+    <name>"Chance"</name>
+  </special>
+  <property type="property">
+    <name>"Park Place"</name>
+    <set>"Royal Blue"</set>
+    <cost>350</cost>
+    <housecost>200</housecost>
+    <baserent>35</baserent>
+    <house1rent>175</house1rent>
+    <house2rent>500</house2rent>
+    <house3rent>1100</house3rent>
+    <house4rent>1300</house4rent>
+    <hotelrent>1500</hotelrent>
+  </property>
+  <tax>
+    <name>"Luxury Tax"</name>
+    <cost>75</cost>
+  </tax>
+  <property type="property">
+    <name>"Boardwalk"</name>
+    <set>"Royal Blue"</set>
+    <cost>400</cost>
+    <housecost>200</housecost>
+    <baserent>50</baserent>
+    <house1rent>200</house1rent>
+    <house2rent>600</house2rent>
+    <house3rent>1400</house3rent>
+    <house4rent>1700</house4rent>
+    <hotelrent>2000</hotelrent>
+  </property>
+</board>
